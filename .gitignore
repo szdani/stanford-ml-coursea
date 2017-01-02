@@ -1,0 +1,6 @@
+*.pdf
+/ex1/lib/
+/ex1/submit.m
+/ex1/token.m
+/ex1/token.mat
+/ex1/.ipynb_checkpoints/
