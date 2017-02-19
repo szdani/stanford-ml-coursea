@@ -8,3 +8,4 @@
 | Week5 | 100%   | NN: Backpropagation, Gradient Checking| [Handwriting  recognition ](https://github.com/szdani/stanford-ml-coursera/blob/master/ex4/week5_ex1.ipynb)     |
 | Week6 | 100%   | Linear Regression and Bias vs Variance| [Water level changing](https://github.com/szdani/stanford-ml-coursera/blob/master/ex5/week6_ex1.ipynb)     |
 | Week7 | 100%   | SVM | [SVM](https://github.com/szdani/stanford-ml-coursera/blob/master/ex6/week7_ex1.ipynb), [E-mail spam](https://github.com/szdani/stanford-ml-coursera/blob/master/ex6/week7_ex2.ipynb)    |
+| Week8 | 100%   | K-Means, PCA | [Image compression](https://github.com/szdani/stanford-ml-coursera/blob/master/ex6/week7_ex1.ipynb), [Dimension reduction on faces](https://github.com/szdani/stanford-ml-coursera/blob/master/ex6/week7_ex2.ipynb)    |
