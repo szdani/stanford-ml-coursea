@@ -9,3 +9,4 @@
 | Week6 | 100%   | Linear Regression and Bias vs Variance| [Water level changing](https://github.com/szdani/stanford-ml-coursera/blob/master/ex5/week6_ex1.ipynb)     |
 | Week7 | 100%   | SVM | [SVM](https://github.com/szdani/stanford-ml-coursera/blob/master/ex6/week7_ex1.ipynb), [E-mail spam](https://github.com/szdani/stanford-ml-coursera/blob/master/ex6/week7_ex2.ipynb)    |
 | Week8 | 100%   | K-Means, PCA | [Image compression](https://github.com/szdani/stanford-ml-coursera/blob/master/ex7/week8_ex1.ipynb), [Dimension reduction on faces](https://github.com/szdani/stanford-ml-coursera/blob/master/ex7/week8_ex2.ipynb)    |
+| Week9 | 100%   | Anomaly detection, Recommending systems | [Computer monitoring](https://github.com/szdani/stanford-ml-coursera/blob/master/ex8/week9_ex1_network.ipynb), [Movie recommendation](https://github.com/szdani/stanford-ml-coursera/blob/master/ex8/week9_ex2_cofi.ipynb)    |
